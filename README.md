@@ -1,2 +1,2 @@
 # Neural-Network
-detail about porject on Neural network
+detail about project on Neural network
